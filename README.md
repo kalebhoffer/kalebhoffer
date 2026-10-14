@@ -14,6 +14,7 @@ I treat AI as a practical execution layer rather than a buzzword: automation tha
 **Selected public work**
 
 - [**NSMPA**](https://github.com/kalebhoffer/nsmpa): an open, reproducible audit of how 1,800 U.S. newsrooms and journalism organizations handle requests to unpublish, de-index, or anonymize old stories. Every finding is quoted verbatim with its source.
+- [**theta-terminal-client**](https://github.com/kalebhoffer/theta-terminal-client): a small, typed Python client for the Theta Terminal v3 options-data API, with sync and async support. It handles the Terminal's undocumented response formats, status codes and connection failures so trading and research code doesn't have to.
 - [**Archive Ethics Project**](https://archiveethics.org): a research initiative on news-archive and de-indexing policy, built on the NSMPA dataset.
 
 **Toolkit**
