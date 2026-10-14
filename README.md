@@ -1,6 +1,8 @@
-### Kaleb Hoffer
+# Kaleb Hoffer
 
-Operations executive who builds. I'm VP of Strategy & Execution at [Offen Petroleum](https://offenpetro.com), a regulated, multi-state fuel distributor, where I lead the company's AI and technology transformation and write much of it myself.
+**Operations executive and AI builder in Denver, Colorado.**
+
+I'm Kaleb Hoffer, VP of Strategy & Execution at [Offen Petroleum](https://offenpetro.com), a regulated, multi-state fuel distributor, where I lead the company's AI and technology transformation and write much of it myself.
 
 I treat AI as a practical execution layer rather than a buzzword: automation that removes manual work, connects disconnected systems, and gives teams the visibility to make better decisions faster.
 
@@ -22,4 +24,8 @@ I treat AI as a practical execution layer rather than a buzzword: automation tha
 
 Python · TypeScript · PostgreSQL · Redis · FastAPI · React · Astro · Docker · Linux
 
-Based in Denver, Colorado.
+**Find me**
+
+- Website: [kalebhoffer.com](https://kalebhoffer.com)
+- LinkedIn: [Kaleb Hoffer on LinkedIn](https://www.linkedin.com/in/kalebhoffer)
+- Based in Denver, Colorado
